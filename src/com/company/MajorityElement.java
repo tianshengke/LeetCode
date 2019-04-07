@@ -11,9 +11,6 @@ package com.company;
  * 输入: [3,2,3]
  * 输出: 3
  * 示例 2:
- *
- * 输入: [2,2,1,1,1,2,2]
- * 输出: 2
  * */
 public class MajorityElement {
 
